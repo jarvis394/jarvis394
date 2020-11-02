@@ -18,4 +18,4 @@ Using VSC with Dark+ theme and bunch of extensions.
 
 I've made lots of projects, like url shorteners, bots; cloned [**habrahabr**](https://habra.js.org/). I built [this bot](https://dedtihon.cf) for VK, [this one](https://vk.com/cubebot) and bunch of other useless bots.
 
-Check this place: [@tarnatovski](https://vk.com.tarnatovski)
+Check this place: [@tarnatovski](https://vk.com/tarnatovski)
