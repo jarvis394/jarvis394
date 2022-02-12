@@ -22,7 +22,7 @@
 <p align="center">
   <img width="" style="background:#4680C2;" src="https://github-readme-stats.vercel.app/api?username=jarvis394&hide_border=true&hide_title=true" alt="Statistics" />
   <br />
-  <p align="center">Hi, I'm Vladislav, junior fullstack developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197408.svg" width="16" /> Russia, <img src="https://www.flaticon.com/svg/static/icons/svg/760/760037.svg" width="16" /> Saint-Petersburg.</p>
+  <p align="center">Hi, I'm Vladislav, junior fullstack developer from <img src="https://img.icons8.com/color/48/000000/russian-federation-circular.png" width="16" /> Russia, <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/60/000000/external-hermitage-museum-vitaliy-gorbachev-blue-vitaly-gorbachev.png" width="16" /> Saint-Petersburg.</p>
 </p>
 
 <h3>Things I code with</h3>
