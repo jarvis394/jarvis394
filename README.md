@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
@@ -43,9 +44,8 @@
 
 Using VSC with Dark+ theme and bunch of extensions.
 
-I've made lots of projects, like url shorteners, bots; cloned [**habrahabr**](https://habra.js.org/). I built [this bot](https://dedtihon.cf) for VK, [this one](https://vk.com/cubebot) and bunch of other useless bots.
+Cloned [**Habrahabr**](https://geekr.vercel.app/). Check pinned repos for my portfolio.
 
---------------
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jarvis394.readme" />
+  <img src="https://visitor-badge.deta.dev/badge?page_id=jarvis394.readme" alt="visitor badge"/>
 </p>
