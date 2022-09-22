@@ -12,10 +12,7 @@
 &nbsp;
 <div align="center">
   <a href="https://linktr.ee/jarvis394">
-    <img src="./LinktreeLight.png#gh-light-mode-only" width="292" />
-  </a>
-  <a href="https://linktr.ee/jarvis394">
-    <img src="./LinktreeDark.png#gh-dark-mode-only" width="292" />
+    <img src="./LinktreeLight.png" width="292" />
   </a>
   &nbsp;
   <img src="./LocationLight.png#gh-light-mode-only" width="292" />
