@@ -20,4 +20,4 @@
 <div align="center"><img src="./TextWideLight.png#gh-light-mode-only" width="600" />
 <img src="./TextWideDark.png#gh-dark-mode-only" width="600" /></div>
 <div align="center"><img src="./SkillsBoxLight.png#gh-light-mode-only" width="600" />
-<img src="./SkillsBoxDark.png#gh-dark-mode-only" width="292" /></div>
+<img src="./SkillsBoxDark.png#gh-dark-mode-only" width="600" /></div>
