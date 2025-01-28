@@ -26,3 +26,7 @@
   <img src="./SkillsBoxLight.png#gh-light-mode-only" width="600" />
   <img src="./SkillsBoxDark.png#gh-dark-mode-only" width="600" />
 </div>
+<div align="center">
+  <img src="./PhotosLight.png#gh-light-mode-only" width="600" />
+  <img src="./PhotosDark.png#gh-dark-mode-only" width="600" />
+</div>
