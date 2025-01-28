@@ -28,7 +28,6 @@
 </div>
 <div align="center">
   <a href="https://t.me/photojepg">
-    <img src="./PhotosLight.png#gh-light-mode-only" width="600" />
-    <img src="./PhotosDark.png#gh-dark-mode-only" width="600" />
+    <img src="./PhotosDark.png" width="600" />
   </a>
 </div>
