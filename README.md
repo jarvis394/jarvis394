@@ -11,8 +11,10 @@
 </div>
 &nbsp;
 <div align="center">
-  <a href="https://www.linkedin.com/in/yekushev/">
+  <a href="https://www.linkedin.com/in/yekushev#gh-light-mode-only">
     <img src="./LinkedinLight.png#gh-light-mode-only" width="292" />
+  </a>
+  <a href="https://www.linkedin.com/in/yekushev#gh-dark-mode-only">
     <img src="./LinkedinDark.png#gh-dark-mode-only" width="292" />
   </a>
   &nbsp;
@@ -28,8 +30,10 @@
   <img src="./SkillsBoxDark.png#gh-dark-mode-only" width="600" />
 </div>
 <div align="center">
-  <a href="https://t.me/photojepg">
+  <a href="https://t.me/photojepg#gh-light-mode-only">
     <img src="./PhotosLight.png#gh-light-mode-only" width="600" />
+  </a>
+  <a href="https://t.me/photojepg#gh-dark-mode-only">
     <img src="./PhotosDark.png#gh-dark-mode-only" width="600" />
   </a>
 </div>
