@@ -11,8 +11,9 @@
 </div>
 &nbsp;
 <div align="center">
-  <a href="https://linktr.ee/jarvis394">
-    <img src="./LinktreeLight.png" width="292" />
+  <a href="https://www.linkedin.com/in/yekushev/">
+    <img src="./LinkedinLight.png#gh-light-mode-only" width="292" />
+    <img src="./LinkedinDark.png#gh-dark-mode-only" width="292" />
   </a>
   &nbsp;
   <img src="./LocationLight.png#gh-light-mode-only" width="292" />
@@ -28,6 +29,11 @@
 </div>
 <div align="center">
   <a href="https://t.me/photojepg">
-    <img src="./PhotosDark.png" width="600" />
+    <img src="./PhotosLight.png#gh-light-mode-only" width="600" />
+    <img src="./PhotosDark.png#gh-dark-mode-only" width="600" />
   </a>
+</div>
+<div align="center">
+  <img src="./ThemeLight.png#gh-light-mode-only" width="600" />
+  <img src="./ThemeDark.png#gh-dark-mode-only" width="600" />
 </div>
